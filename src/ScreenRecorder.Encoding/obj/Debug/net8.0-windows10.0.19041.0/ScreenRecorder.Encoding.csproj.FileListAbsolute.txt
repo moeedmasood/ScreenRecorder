@@ -1,0 +1,15 @@
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.csproj.AssemblyReference.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.AssemblyInfoInputs.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.AssemblyInfo.cs
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.csproj.CoreCompileInputs.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\bin\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.deps.json
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\bin\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\bin\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.pdb
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\bin\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Core.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\bin\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Core.pdb
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRe.C63BE633.Up2Date
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\refint\ScreenRecorder.Encoding.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.pdb
+E:\Development\ScreenRecorder\src\ScreenRecorder.Encoding\obj\Debug\net8.0-windows10.0.19041.0\ref\ScreenRecorder.Encoding.dll

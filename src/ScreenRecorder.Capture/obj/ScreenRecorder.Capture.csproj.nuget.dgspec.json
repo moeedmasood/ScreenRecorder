@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Capture\\ScreenRecorder.Capture.csproj": {}
+  },
+  "projects": {
+    "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Capture\\ScreenRecorder.Capture.csproj": {
+      "version": "0.6.0",
+      "restore": {
+        "projectUniqueName": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Capture\\ScreenRecorder.Capture.csproj",
+        "projectName": "ScreenRecorder.Capture",
+        "projectPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Capture\\ScreenRecorder.Capture.csproj",
+        "packagesPath": "C:\\Users\\moeed\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Capture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows10.0.19041": {
+            "targetAlias": "net8.0-windows10.0.19041.0",
+            "projectReferences": {
+              "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj": {
+                "projectPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj"
+              },
+              "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Encoding\\ScreenRecorder.Encoding.csproj": {
+                "projectPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Encoding\\ScreenRecorder.Encoding.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows10.0.19041": {
+          "targetAlias": "net8.0-windows10.0.19041.0",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Vortice.Direct3D11": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.57, 10.0.19041.57]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj": {
+      "version": "0.6.0",
+      "restore": {
+        "projectUniqueName": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj",
+        "projectName": "ScreenRecorder.Core",
+        "projectPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj",
+        "packagesPath": "C:\\Users\\moeed\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Encoding\\ScreenRecorder.Encoding.csproj": {
+      "version": "0.6.0",
+      "restore": {
+        "projectUniqueName": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Encoding\\ScreenRecorder.Encoding.csproj",
+        "projectName": "ScreenRecorder.Encoding",
+        "projectPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Encoding\\ScreenRecorder.Encoding.csproj",
+        "packagesPath": "C:\\Users\\moeed\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Encoding\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows10.0.19041": {
+            "targetAlias": "net8.0-windows10.0.19041.0",
+            "projectReferences": {
+              "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj": {
+                "projectPath": "E:\\Development\\ScreenRecorder\\src\\ScreenRecorder.Core\\ScreenRecorder.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows10.0.19041": {
+          "targetAlias": "net8.0-windows10.0.19041.0",
+          "dependencies": {
+            "Vortice.Direct3D11": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            },
+            "Vortice.MediaFoundation": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.57, 10.0.19041.57]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

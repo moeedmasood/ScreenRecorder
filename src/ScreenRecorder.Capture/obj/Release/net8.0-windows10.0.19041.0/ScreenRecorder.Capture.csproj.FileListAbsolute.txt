@@ -1,0 +1,13 @@
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\bin\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.deps.json
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\bin\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\bin\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Core.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\bin\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Encoding.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.csproj.AssemblyReference.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.AssemblyInfoInputs.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.AssemblyInfo.cs
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.csproj.CoreCompileInputs.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRe.FDF8AA0C.Up2Date
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ScreenRecorder.Capture.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\refint\ScreenRecorder.Capture.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Capture\obj\Release\net8.0-windows10.0.19041.0\ref\ScreenRecorder.Capture.dll

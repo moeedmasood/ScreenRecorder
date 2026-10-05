@@ -1,0 +1,11 @@
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\bin\Debug\net8.0\ScreenRecorder.Core.deps.json
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\bin\Debug\net8.0\ScreenRecorder.Core.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\bin\Debug\net8.0\ScreenRecorder.Core.pdb
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ScreenRecorder.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ScreenRecorder.Core.AssemblyInfoInputs.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ScreenRecorder.Core.AssemblyInfo.cs
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ScreenRecorder.Core.csproj.CoreCompileInputs.cache
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ScreenRecorder.Core.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\refint\ScreenRecorder.Core.dll
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ScreenRecorder.Core.pdb
+E:\Development\ScreenRecorder\src\ScreenRecorder.Core\obj\Debug\net8.0\ref\ScreenRecorder.Core.dll

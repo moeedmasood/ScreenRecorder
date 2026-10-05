@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ScreenRecorder.LicenseTool/0.6.0": {
+        "dependencies": {
+          "ScreenRecorder.Core": "0.6.0"
+        },
+        "runtime": {
+          "ScreenRecorder.LicenseTool.dll": {}
+        }
+      },
+      "ScreenRecorder.Core/0.6.0": {
+        "runtime": {
+          "ScreenRecorder.Core.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScreenRecorder.LicenseTool/0.6.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScreenRecorder.Core/0.6.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

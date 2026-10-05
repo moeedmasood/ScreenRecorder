@@ -1,0 +1,16 @@
+<Window x:Class="ScreenRecorder.App.RegionSelectorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None" AllowsTransparency="True" Background="#01000000" Topmost="True"
+        ShowInTaskbar="False" ResizeMode="NoResize" Cursor="Cross"
+        MouseLeftButtonDown="OnDown" MouseMove="OnMove" MouseLeftButtonUp="OnUp" KeyDown="OnKeyDown">
+    <Canvas x:Name="Root" IsHitTestVisible="False">
+        <Path x:Name="Dim" Fill="#99000000"/>
+        <Rectangle x:Name="Frame" Stroke="#FF3B9DFF" StrokeThickness="2" Visibility="Collapsed"/>
+        <Border x:Name="SizeLabel" Background="#CC000000" Padding="6,2" Visibility="Collapsed">
+            <TextBlock x:Name="SizeText" Foreground="White" FontFamily="Consolas"/>
+        </Border>
+        <TextBlock x:Name="Hint" Foreground="White" FontSize="22" Canvas.Left="40" Canvas.Top="40"
+                   Text="Drag to select the area to record. Esc to cancel."/>
+    </Canvas>
+</Window>
